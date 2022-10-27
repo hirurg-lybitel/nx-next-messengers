@@ -6,7 +6,7 @@ function CustomApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Welcome to tg-provider!</title>
+        <title>tg provider!</title>
       </Head>
       <main className="app">
         <Component {...pageProps} />
